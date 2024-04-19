@@ -1,3 +1,3 @@
-.main-nowPlayingWidget-coverArt {
+.main-nowPlayingWidget-nowPlaying:first-child .main-nowPlayingWidget-coverArt {
     margin-bottom: -6px !important;
 }
