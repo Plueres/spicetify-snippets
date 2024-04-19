@@ -1,0 +1,9 @@
+#upcomingSongDiv {
+    padding-left: 100px;
+    padding-top: 0;
+}
+
+#upcomingSongDiv .cover-art,
+#upcomingSongDiv .main-trackInfo-name {
+    margin-top: 0 !important;
+}
