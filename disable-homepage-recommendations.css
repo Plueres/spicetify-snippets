@@ -1,0 +1,3 @@
+section[data-testid='home-page'] .main-shelf-shelf:not([aria-label='Recently played'], [aria-label='Your playlists']) {
+    display: none !important;
+}

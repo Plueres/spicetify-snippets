@@ -1,0 +1,8 @@
+/* This applies mostly for the gradient now playing bar extension */
+.Root__now-playing-bar.LibraryX {
+    --cover-ambience-background: transparent !important;
+}
+
+#upcomingSongDiv {
+    z-index: -1;
+}
