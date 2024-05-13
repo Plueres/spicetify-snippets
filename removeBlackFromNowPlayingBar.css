@@ -1,0 +1,7 @@
+.Root__now-playing-bar.LibraryX {
+    --cover-ambience-background: transparent !important;
+}
+
+#upcomingSongDiv {
+    z-index: -1;
+}
