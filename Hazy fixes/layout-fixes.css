@@ -1,0 +1,9 @@
+.Root.global-nav .marketplace-header {
+   padding-top: 0!important; 
+}
+.main-view-container {
+    margin-top: 3rem;
+}
+.marketplace-header__left {
+    padding-bottom: 3rem;
+}
